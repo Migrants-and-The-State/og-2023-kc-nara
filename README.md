@@ -1,6 +1,6 @@
-# og-template
+# og-2024-kc-nara
 
-template repository for aperitiiif batches of a files for migrants and the state neh grant project 🥂
+aperitiiif batch of nara a files for migrants and the state neh grant project 🥂
 
 ## description
 
